@@ -1,0 +1,17 @@
+.freemodal {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 500px;
+}
+
+.freemodal-inner {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.freemodal iframe {
+    border: none;
+    width: 100%;
+}

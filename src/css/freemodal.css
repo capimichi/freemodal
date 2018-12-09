@@ -1,0 +1,17 @@
+.freemodal-iframe.loading .freemodal-inner {
+    background-position: center center;
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+}
+
+.freemodal-iframe.loading .freemodal-inner.oval-grey {
+    background-image: url('../img/oval/grey.svg');
+}
+
+.freemodal-iframe.loading .freemodal-inner.oval-black {
+    background-image: url('../img/oval/black.svg');
+}
+
+.freemodal-iframe.loading .freemodal-inner.oval-white {
+    background-image: url('../img/oval/white.svg');
+}
